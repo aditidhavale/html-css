@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    margin-left: 2px;
+}
+a{
+    margin-left: 200px;
+    color: white;
+     text-decoration: none;/*by default link is underline so to remove underline */
+}
+input{
+    margin-left: 200px;
+}
+button{
+    background-color: #f08804;
+} 
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 100px;
+}
+#content{
+    height: 500px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
